@@ -2,7 +2,7 @@
   "name": "employeedirectory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kalynbsimms.github.io/employeedirectoy"
+  "homepage": "http://kalynbsimms.github.io/employeedirectory",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
